@@ -133,6 +133,7 @@ nav ul li a:hover {
 }
 
 section {
+    scroll-margin-top: 50px;
     margin: auto;
     display: flex;
     margin-bottom: 50px;
