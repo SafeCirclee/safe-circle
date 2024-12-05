@@ -151,6 +151,27 @@ section {
     color: #364f6b;
 }
 
+.konten1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 30px 0;
+}
+
+.kolom1 {
+    margin-top: 10px;
+    padding: 20px;
+    width: 70%; /* Lebar kartu */
+    text-align: left;
+}
+
+.kolom1 .deskripsi1 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: #364f6b;
+}
+
 h2 {
     font-family: 'comic sans ms';
     font-weight: 800;
@@ -216,6 +237,10 @@ p {
     width: 100%;
 }
 
+.tengah1 {
+    text-align: center;
+    width: 50%;
+}
 
 #contact {
     background: #dedede;
