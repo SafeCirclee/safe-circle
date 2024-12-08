@@ -85,7 +85,7 @@ nav ul li a:hover {
 
 .carousel-images img {
     width: 100%;
-    height: 200px;
+    height: 400px;
     object-fit: cover;
     display: block;
 }
